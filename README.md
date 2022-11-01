@@ -4,7 +4,7 @@
 
 Uses React.
 
-Learning React class components, CSS Transitions and Animations...
+*Learning React class components, CSS Transitions and Animations...*
 
 To install the application, run `npm install` in the project directory.
 
