@@ -1,6 +1,6 @@
-Random Quote Machine
+# Random Quote Machine
 
-My solution of freeCodeCamp's Random Quote Machine challenge.
+## My solution of freeCodeCamp's Random Quote Machine challenge.
 
 Uses React.
 
