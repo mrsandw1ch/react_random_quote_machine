@@ -1,6 +1,7 @@
 {
   "name": "random_quote_machine",
   "version": "0.1.0",
+  "homepage": "https://mrsandw1ch.github.io/react_random_quote_machine",
   "private": true,
   "author": "Dmitry Sviridenko",
   "description": "freeCodeCamp Random quote machine ",

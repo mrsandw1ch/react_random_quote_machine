@@ -78,7 +78,9 @@ class App extends React.Component {
             </button>
           </div>
         </div>
-        <p style={{color: 'white', fontSize: '1rem'}}>by mrsandw1ch</p>
+        <footer>
+          <p>&#169; 2022 by mrsandw1ch</p>
+        </footer>
       </div>
     );
   };
