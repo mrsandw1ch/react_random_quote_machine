@@ -79,7 +79,8 @@ class App extends React.Component {
           </div>
         </div>
         <footer>
-          <p>&#169; 2022 by mrsandw1ch</p>
+          <p>&#169; 2022 coded by <a href="https://github.com/mrsandw1ch" rel="noreferrer" target="_blank">mrsandw1ch</a><br/>
+          designed by <a href="https://www.freecodecamp.org" rel="noreferrer" target="_blank">freeCodeCamp</a></p>
         </footer>
       </div>
     );
