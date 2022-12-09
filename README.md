@@ -10,7 +10,7 @@ To install the application, run `npm install` in the project directory.
 
 ![screenshot](./screenshot.png)
 
-# Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
